@@ -5,7 +5,7 @@ import './index.css'
 
 import { AuthProvider } from './shared/authContext'
 import { ActivityProvider } from './shared/activityContext'
-import { GoalProvider } from './shared/goalContext';
+import { GoalProvider } from './shared/GoalContext';
 import { UserProvider } from './shared/userContext'
 import { StatsProvider } from './shared/statsContext'
 
